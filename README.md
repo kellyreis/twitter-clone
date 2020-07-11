@@ -1,4 +1,4 @@
-UI Clone - Twitter Responsive
+UI Clone - Twitter 
 
 
 
@@ -26,7 +26,7 @@ UI Clone - Twitter Responsive
 </p>
 
 ## 💻 Project
-**Twitter** UI Clone - Twitter 100% Responsive 
+**Twitter** Estudo   UI Clone - Twitter 
 
 ## :rocket: Technologies
 Este projeto foi desenvolvido com as seguintes tecnologias:
